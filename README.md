@@ -69,7 +69,10 @@ CodeAlpha_HotelReservationSystem/
 
 ## 🔗 Links
 
-🔹 LinkedIn: [https://www.linkedin.com/in/sangamithra-d-8a4092301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+LinkedIn: [https://www.linkedin.com/in/sangamithra-d-8a4092301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appt]
+LinkedIn Post:
+[https://www.linkedin.com/posts/sangamithra-d-8a4092301_codealpha-hotelreservationsystem-javadevelopment-activity-7344388429792575488-6jXS?utm_source=share&utm_medium=member_android&rcm=ACoAAE0Te3wBDPpSmrzX8PUb8qeOgFjMumrLltk]
+
 
 
 ---
